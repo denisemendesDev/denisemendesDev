@@ -77,7 +77,7 @@ Sou Denise Mendes Janota, desenvolvedora em formação e apaixonada por tecnolog
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
 />
-
+<!--
 <br>
 <br>
 
@@ -100,4 +100,4 @@ Sou Denise Mendes Janota, desenvolvedora em formação e apaixonada por tecnolog
   style="padding-right: 10px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemendesDev&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=6"
 />
-</p>
+</p>-->
