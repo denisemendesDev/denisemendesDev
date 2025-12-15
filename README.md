@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">Linguagens e Tecnologias</h3>
+<h3 align="left">Linguagens e Tecnologias.</h3>
 
 ###
 
